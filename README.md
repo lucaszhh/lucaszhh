@@ -1,16 +1,13 @@
-### Hi there 👋
+# --Hola Espectador Entrometido-- 
 
-<!--
-**lucaszhh/lucaszhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_ Has llegado a mi perfil de GitHub_
 
-Here are some ideas to get you started:
+## Un poco de Mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Actualmente soy estudiante regular de Universidad Tecnologica Nacional-FRM_
+_Me encuentro cursando en DigitalHouse curso de ProgramacionWebFullStack_
+
+## Trabajos en Los que estoy trabajando 
+
+### AppGYM: 
+<a href="https://lucaszhh.github.io/Frontend_1/">Vamos al Proyect</a>
