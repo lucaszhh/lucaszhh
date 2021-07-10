@@ -9,5 +9,4 @@ _Me encuentro cursando en DigitalHouse curso de ProgramacionWebFullStack_
 
 ## Trabajos en Los que estoy trabajando 
 
-### Frontend_1: 
-<a href="https://lucaszhh.github.io/Frontend_1/">Vamos al Proyect</a>
+### Frontend_1: <a href="https://lucaszhh.github.io/Frontend_1/">Vamos al Proyecto</a>
