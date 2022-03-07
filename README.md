@@ -1,14 +1,16 @@
-# --Hola Espectador Entrometido-- 
+# --Hola Espectador-- 
 
 _ Has llegado a mi perfil de GitHub_
 
 ## Un poco de Mi
 
-_Actualmente soy estudiante regular de Universidad Tecnologica Nacional-FRM_
+_Actualmente estoy estudiando la carrera Ingenieria en Sistemas de Información_
 
-_Me encuentro cursando en DigitalHouse curso de ProgramacionWebFullStack_
+_Me encuentro cursando en DigitalHouse la carrera Certified Tech Developer_
 
-## Trabajos en Los que estoy trabajando 
+## Trabajos que estoy Desarrollando
 
 ### Frontend_1: <a href="https://lucaszhh.github.io/Frontend_1/">Vamos al Proyecto</a>
 ### Frontend_2: <a href="https://lucaszhh.github.io/Frontend_2/">Vamos al Proyecto</a>
+
+Gracias por ver
