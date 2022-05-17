@@ -10,7 +10,7 @@ _Me encuentro cursando en DigitalHouse la carrera Certified Tech Developer_
 
 ## Trabajos finalizados 
 
-### Frontend1 1: <a href="https://lucaszhh.github.io/Frontend_1/" target="_blank" >Vamos al Proyecto</a>
+### Frontend1 1: <a href="https://lucaszhh.github.io/frontend-html-css/" target="_blank" >Vamos al Proyecto</a>
 Lenguajes utilizados: HTML, CSS
 
 ### Frontend 2: <a href="https://lucaszhh.github.io/Frontend_2/" target="_blank" >Vamos al Proyecto</a>
