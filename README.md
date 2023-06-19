@@ -1,4 +1,5 @@
 ### Hi there 👋
 ## Esto es programacion web
-<a href="http://www.github.com/lucaszhh">Visita mi perfil de github</a>
+
+Visita mi perfil educativo: <a href="http://www.github.com/lucaszarandon">Ir a mi segundo perfil!</a>
 
