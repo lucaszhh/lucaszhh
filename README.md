@@ -2,12 +2,12 @@
 <h1 align="center">Hi, I'm Lucas</h1>
 <h3 align="center">FullStack developer 💻</h3>
 
-- 👨‍💻 Working at [Casa del Futuro](https://www.instagram.com/casadelfuturo.godoycruz/) and [Conectar Lab Mendoza](https://www.instagram.com/conectarlabmendoza/)
-- 🥽 System Engineer Student at [UTN](https://www4.frm.utn.edu.ar/) 
-- 🎐 My favorite development proyect? [Marvel Comics site](https://ctd-esp-fe3-final-five.vercel.app/)
+- 👨‍💻 Working at <a target="_blank" href="https://www.instagram.com/casadelfuturo.godoycruz/">Casa del Futuro</a> and <a target="_blank" href="https://www.instagram.com/conectarlabmendoza/">Conectar Lab Mendoza</a>
+- 🥽 System Engineer Student at <a target="_blank" href="https://www4.frm.utn.edu.ar/">UTN</a>
+- 🎐 My favorite development proyect? <a target="_blank" href="https://ctd-esp-fe3-final-five.vercel.app/">Marvel Comics site</a>
 - 💬 Ask me about FullStack Tools as **NextJS, React, Redux, Typescript, Java with Spring Boot or Databases!**
 - 🌱 I’m currently learning **IA con Python**
--  📫 Reach me at: <a href="https://www.linkedin.com/in/lucas-zarandon/" >Linkedin</a>
+-  📫 Reach me at: <a target="_blank" href="https://www.linkedin.com/in/lucas-zarandon/" >Linkedin</a>
 
 <hr/>
 
