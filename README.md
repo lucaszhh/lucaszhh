@@ -12,7 +12,7 @@
 <hr/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaszhh&show_icons=true&locale=en&layout=compact" alt="lucaszhh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lucaszhh&show_icons=true&locale=en" alt="lucaszhh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaszhh&show_icons=true&locale=en&layout=compact" alt="lucaszhh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaszhh&show_icons=true&locale=en" alt="lucaszhh" /></p>
 
