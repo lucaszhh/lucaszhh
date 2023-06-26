@@ -10,7 +10,8 @@
 - 🎐 My favorite development proyect? <a target="_blank" href="https://ctd-esp-fe3-final-five.vercel.app/">Marvel Comics site</a>
 - 💬 Ask me about FullStack Tools as **NextJS, React, Redux, Typescript, Java with Spring Boot or Databases!**
 - 🌱 I’m currently learning <a target="_blank" href="https://github.com/lucaszhh/ia-con-python" >IA con Python</a>
--  📫 Reach me at: <a target="_blank" href="https://www.linkedin.com/in/lucas-zarandon/" >Linkedin</a>
+- 📫 Reach me at: <a target="_blank" href="https://www.linkedin.com/in/lucas-zarandon/" >Linkedin</a>
+- ⛰ I currently live in Mendoza, Argentina.
 
 <hr/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hi!+welcome+to+my+site+;i'm+frontend+developer;and+some+fullstack+developer;nice+to+meet+you..." alt="Typing SVG" /></a>
