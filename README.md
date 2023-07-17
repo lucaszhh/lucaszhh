@@ -7,7 +7,7 @@
 
 - 👨‍💻 Working at <a target="_blank" href="https://www.instagram.com/casadelfuturo.godoycruz/">Casa del Futuro</a> and <a target="_blank" href="https://www.instagram.com/conectarlabmendoza/">Conectar Lab Mendoza</a>
 - 🥽 System Engineer Student at <a target="_blank" href="https://www4.frm.utn.edu.ar/">UTN</a>
-- 🎐 My favorite development proyect? <a target="_blank" href="https://ctd-esp-fe3-final-five.vercel.app/">Marvel Comics site</a>
+- 🎐 My favorite development proyect? <a target="_blank" href="https://ctd-esp-fe3-final-five.vercel.app/">Marvel Comics site</a> and <a target="_blank" href="https://equipo-12-lucaszhh.vercel.app/">Digital Money House</a>
 - 💬 Ask me about FullStack Tools as **NextJS, React, Redux, Typescript, Java with Spring Boot or Databases!**
 - 🌱 I’m currently learning <a target="_blank" href="https://github.com/lucaszhh/ia-con-python" >IA con Python</a>
 - 📫 Reach me at: <a target="_blank" href="https://www.linkedin.com/in/lucas-zarandon/" >Linkedin</a>
