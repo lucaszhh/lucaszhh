@@ -1,6 +1,6 @@
 
 <h1 >Hi, I'm Lucas Zarandón</h1>
-<h3 >FrontEnd Web developer 💻</h3>
+<h2 >FrontEnd Web developer 💻</h2>
 <p >Graduated in <a target="_blank" href="https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer">Certified Tech Developer</a> in <a target="_blank" href="https://www.digitalhouse.com/ar">Digital House</a></p>
 <h3>Take a look at my <a target="_blank" href="https://lucaszarandon.vercel.app/">portfolio</a>📂</h3>
 <br>
