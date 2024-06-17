@@ -8,7 +8,7 @@
 
 - 👨‍💻 Working at <a target="_blank" href="https://www.instagram.com/casadelfuturo.godoycruz/">Casa del Futuro</a> and <a target="_blank" href="https://www.instagram.com/conectarlabmendoza/">Conectar Lab Mendoza</a>
 - 🎐 My favorites development proyect? <a target="_blank" href="https://ctd-esp-fe3-final-five.vercel.app/">Marvel Comics</a> and <a target="_blank" href="https://git-con-github.netlify.app/">Git con Github</a>.
-- 💬 Ask me about FullStack Tools as **NextJS, Astro, React, Typescript, CSS, Tailwind and Databases!**
+- 💬 Ask me about FrontEnd Tools as **NextJS, Astro, React, Typescript, CSS, Tailwind and Databases!**
 - 📫 Reach me at: <a target="_blank" href="https://www.linkedin.com/in/lucas-zarandon/" >Linkedin</a>.
 - ⛰ I currently live in Mendoza, Argentina.
 
