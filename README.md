@@ -25,8 +25,3 @@ React Hook Form · Zod · Material UI · Keycloak · NestJS · Node.js
 
 ---
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaszhh&show_icons=true&locale=en&theme=dark" alt="Lucas Zarandón GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaszhh&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
