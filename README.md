@@ -7,9 +7,17 @@ Currently at Necta, leading the frontend of **Mendoza por Mí** — a government
 Previously built **Cumbre** from scratch — an educational platform now used by **+40k students** across +400 institutions.
 
 I also do AI-assisted engineering: autonomous code agents, MCP servers, reusable agent skills, and end-to-end agentic ship workflows. Certified by Anthropic (MCP, Claude Code).
-→ Public proof: [lucaszarandon-agent-toolkit](https://github.com/lucaszhh/lucaszarandon-agent-toolkit)
 
 💼 [Portfolio](https://lucaszarandon.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/lucas-zarandon) · 📫 lzarandon.dev@gmail.com
+
+---
+
+### 🚀 Featured Repositories & Open Source
+
+- 🤖 [**lucaszarandon-agent-toolkit**](https://github.com/lucaszhh/lucaszarandon-agent-toolkit): Reusable agent skills, workflows, and a custom TypeScript MCP server backing my AI-assisted engineering workflow.
+- 🎯 [**GoalsColab (metas-colaborativas)**](https://github.com/lucaszhh/metas-colaborativas): Real-time collaborative goal management built with **React 19**, **Tailwind CSS v4**, **TanStack Query v5**, and **Radix UI** ([Live Demo](https://metas-colaborativas.vercel.app)).
+- 💳 [**Digital Money House**](https://github.com/lucaszhh/digital-money-house): Production-grade fintech app built with **Next.js (SSR)**, **TypeScript**, and **Material UI** ([Live Demo](https://digitalmoneyhouse.vercel.app/)).
+- 🌐 [**Portfolio**](https://github.com/lucaszhh/my-portfolio): High-performance personal portfolio built with **Astro** and **Tailwind CSS** ([lucaszarandon.vercel.app](https://lucaszarandon.vercel.app)).
 
 ---
 
